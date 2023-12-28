@@ -129,6 +129,9 @@
     "twig/twig": "^3.3.9",
     "umpirsky/country-list": "^2.0.6"
   },
+  "replace": {
+    "pimcore/pimcore" : "*"
+  },
   "conflict": {
     "symfony/symfony": "*",
     "sabre/dav": "4.2.2",
